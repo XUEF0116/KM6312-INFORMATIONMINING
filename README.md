@@ -11,14 +11,14 @@ Processed Data: The cleaned and processed data is available in df_clean.csv, whi
 Feature engineering was performed on the sleep_health_and_lifestyle_dataset to prepare the data for modeling. See Future Engineering.ipynb.
 
 ## Models
-Seven different predictive models were developed and evaluated in this study:
-K-Nearest Neighbors (KNN): See knn.py
-Logistic Regression (LR): See LR.py
-Support Vector Machine (SVM): See Svm.py
-Random Forest (RF): See rf.py
-XGBoost and Deep Metric Learning (DML): See XGBoost+DML.ipynb
-NN-ANN: See NN-ANN.ipynb
-NB: See NB.ipynb
+Seven different predictive models were developed and evaluated in this study:  
+K-Nearest Neighbors (KNN): See knn.py  
+Logistic Regression (LR): See LR.py  
+Support Vector Machine (SVM): See Svm.py  
+Random Forest (RF): See rf.py  
+XGBoost and Deep Metric Learning (DML): See XGBoost+DML.ipynb  
+NN-ANN: See NN-ANN.ipynb  
+NB: See NB.ipynb  
 
-Each script and notebook contains the model implementation, along with detailed comments explaining the process and choices made during model development.
+Each script and notebook contains the model implementation, along with detailed comments explaining the process and choices made during model development.  
 
