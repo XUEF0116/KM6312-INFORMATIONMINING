@@ -17,6 +17,8 @@ Logistic Regression (LR): See LR.py
 Support Vector Machine (SVM): See Svm.py
 Random Forest (RF): See rf.py
 XGBoost and Deep Metric Learning (DML): See XGBoost+DML.ipynb
+NN-ANN: See NN-ANN.ipynb
+NB: See NB.ipynb
 
 Each script and notebook contains the model implementation, along with detailed comments explaining the process and choices made during model development.
 
